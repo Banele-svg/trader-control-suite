@@ -21,4 +21,4 @@ jobs:
         
 
       - name: Build APK
-        run: ./gradle assembleDebug
+        run: gradle assembleDebug
